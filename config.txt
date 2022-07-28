@@ -1,2 +1,2 @@
-system = Windows64
+system = AArch64
 url = https://gitee.com
